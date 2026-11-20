@@ -4,7 +4,7 @@ Aplikacija **Implicit Intents** je demonstracijski projekt v jeziku **Java** za 
 
 ---
 
-## 📱 Funkcionalnosti
+##  Funkcionalnosti
 
 Aplikacija omogoča štiri glavne akcije:
 
@@ -26,7 +26,7 @@ Aplikacija omogoča štiri glavne akcije:
 
 ---
 
-## 🛠️ Uporabljene tehnologije
+##  Uporabljene tehnologije
 
 - **Jezik:** Java
 - **UI:** XML Layouts (`LinearLayout`, `EditText`, `Button`, `TextView`)
@@ -35,7 +35,7 @@ Aplikacija omogoča štiri glavne akcije:
 
 ---
 
-## 💡 Primeri kode (Implicit Intents)
+##  Primeri kode (Implicit Intents)
 
 ```java
 // 1. Odpiranje spletne strani
@@ -62,7 +62,7 @@ startActivity(intent);
 
 ---
 
-## 🚀 Namestitev in zagon
+##  Namestitev in zagon
 
 1. Klonsko kopirajte repozitorij:
    ```bash
@@ -74,6 +74,8 @@ startActivity(intent);
 
 ---
 
-## 📄 Licenca
+##  Licenca
 
 Projekt je odprtokoden in na voljo pod licenco [MIT](LICENSE).
+<img width="330" height="716" alt="image" src="https://github.com/user-attachments/assets/86356d11-cb7a-4148-804a-3aab7fe8b51d" />
+
