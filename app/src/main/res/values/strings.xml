@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Implicit_Intents</string>
+    <string name="website_hint">Vnesi naslov spletne strani</string>
+    <string name="open_website_button">ODPRI SPLETNO STRAN</string>
+    <string name="location_hint">Vnesi lokacijo</string>
+    <string name="open_location_button">ODPRI LOKACIJO</string>
+    <string name="share_text_hint">Vnesi besedilo</string>
+    <string name="share_text_button">DELI TO BESEDILO</string>
+    <string name="phone_hint">Vnesi telefonsko številko</string>
+    <string name="call_phone_button">POKLIČI ŠTEVILKO</string>
 </resources>
